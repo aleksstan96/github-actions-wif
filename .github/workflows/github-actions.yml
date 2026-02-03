@@ -12,7 +12,7 @@ jobs:
     environment: dev
     env:
       DATABRICKS_AUTH_TYPE: github-oidc
-      DATABRICKS_HOST: https://adb-7405615516258315.15.azuredatabricks.net/
+      DATABRICKS_HOST: https://adb-7405615516258315.15.azuredatabricks.net
       DATABRICKS_CLIENT_ID: 8222960a-004d-4863-ae6b-bfd7267aed73
 
     steps:
